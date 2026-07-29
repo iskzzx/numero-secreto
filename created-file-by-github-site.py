@@ -5,3 +5,5 @@
 fruta = 'banana'
 objeto = 'carro'
 pessoa = 'alfredo'
+
+# Obs: Deu certo de primeira tentativa! 29/07/2026
