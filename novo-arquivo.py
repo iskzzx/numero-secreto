@@ -1,1 +1,1 @@
-rato = "cebola"
+"""Novo arquivo - Teste de conflitos"""
