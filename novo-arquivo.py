@@ -1,1 +1,0 @@
-"""Novo arquivo - Teste de conflitos"""
